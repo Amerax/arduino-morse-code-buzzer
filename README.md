@@ -45,3 +45,6 @@ https://youtu.be/pxr5mzSvdw0
 There is also optional case file included: 
 
 <img width="556" height="362" alt="image" src="https://github.com/user-attachments/assets/62313549-945e-4dc6-9403-0b54da6a9fc2" />
+
+BOM
+<img width="613" height="503" alt="image" src="https://github.com/user-attachments/assets/79290da0-fcfd-45f0-8719-5d6a059c0ada" />
